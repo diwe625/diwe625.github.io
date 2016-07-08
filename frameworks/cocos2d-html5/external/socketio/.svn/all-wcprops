@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/external/socketio
+END
+socket.io.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/external/socketio/socket.io.js
+END
+socket.io.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/external/socketio/socket.io.min.js
+END

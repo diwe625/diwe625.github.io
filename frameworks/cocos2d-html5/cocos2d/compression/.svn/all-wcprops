@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/compression
+END
+base64.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/compression/base64.js
+END
+gzip.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/compression/gzip.js
+END
+zlib.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/compression/zlib.min.js
+END
+ZipUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/compression/ZipUtils.js
+END

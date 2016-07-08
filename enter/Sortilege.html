@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="shift-jis">
+    <title>くじの中身はあなた次第出るかな大当たり!?</title>
+    <link rel="icon" type="image/PNG" href="../res/icon.png"/>
+    <link rel="apple-touch-icon-precomposed" href="../res/icons/00_benriy_180.png">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="../res/icons/00_benriy_57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../res/icons/00_benriy_72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../res/icons/00_benriy_171.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../res/icons/00_benriy_114.png">
+    <meta name="viewport">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+    <!--<meta name="apple-mobile-web-app-capable" content="yes"/>-->
+    <!--<meta name="apple-mobile-web-app-status-bar-style" content="black">-->
+    <!--<meta name="format-detection" content="telephone=no">-->
+    <meta name="full-screen" content="yes"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+    <style>
+        body, canvas, div {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+            -khtml-user-select: none;
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+        }
+        #orietation_img img {
+            vertical-align: middle;
+            width:291px;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+        #orietation_img {
+            position:absolute;
+            top:0; right:0;
+            bottom:0; left:0;
+        }
+
+        #orietation_imgs img {
+            vertical-align: middle;
+            width:151px;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
+        }
+        #orietation_imgs {
+            position:absolute;
+            top:0; right:0;
+            bottom:0; left:0;
+        }
+    </style>
+    <!--libs-->
+    <script type="text/javascript" src="libs/dojo.history.js"></script>
+    <script type="text/javascript" src="libs/Define.js"></script>
+    <script type="text/javascript" src="http://static.hangame.co.jp/spn/r02/lib/compact_common.js"></script>
+    <script type="text/javascript" src="http://static.hangame.co.jp/spn/r02/lib/lcslog_hangame.js"></script>
+</head>
+<body style="padding:0; margin: 0; background: #6fcdc1;">
+<!--<script src="libs/loading.js"></script>-->
+<canvas id="gameCanvas" width="100" height="100"></canvas>
+<div id="orietation_img" style="text-align:center; background: #000000; display:none">
+    <img src="../res/screen_rotation/Screen_rotation_B.png">
+</div>
+<div id="orietation_imgs" style="text-align:center; background: #000000; display:none">
+    <img src="../res/screen_rotation/Screen_rotation_B.png">
+</div>
+<script>var contentNumber = GAME_TYPE.Sortilege;</script>
+<script src="libs/cocos2d-js-v3.8-min.js?ver=1.0.2"></script>
+<script cocos src="libs/bennriya.js?ver=1.0.2"></script>
+</body>
+</html>

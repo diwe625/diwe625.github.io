@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/clipping-nodes
+END
+CCClippingNodeWebGLRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/clipping-nodes/CCClippingNodeWebGLRenderCmd.js
+END
+CCClippingNode.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/clipping-nodes/CCClippingNode.js
+END
+CCClippingNodeCanvasRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/clipping-nodes/CCClippingNodeCanvasRenderCmd.js
+END

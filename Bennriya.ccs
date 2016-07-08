@@ -1,0 +1,49 @@
+<Solution>
+  <PropertyGroup Name="Bennriya" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Image">
+          <Image Name="cha_thumb_01.png" />
+          <Image Name="flower.png" />
+          <Image Name="table_bot.png" />
+          <Image Name="table_mid.png" />
+          <Image Name="table_top.png" />
+          <Image Name="null_124.png" />
+        </Folder>
+        <Project Name="member.csd" Type="Node" />
+        <Project Name="Table4.csd" Type="Node" />
+        <Project Name="Table6.csd" Type="Node" />
+        <Project Name="Table8.csd" Type="Node" />
+        <Project Name="Table10.csd" Type="Node" />
+        <Project Name="Table12.csd" Type="Node" />
+        <Project Name="Table14.csd" Type="Node" />
+        <Project Name="Table16.csd" Type="Node" />
+        <Project Name="Table18.csd" Type="Node" />
+        <Project Name="Table20.csd" Type="Node" />
+        <Project Name="Table22.csd" Type="Node" />
+        <Project Name="Table24.csd" Type="Node" />
+        <Project Name="Table26.csd" Type="Node" />
+        <Project Name="Table28.csd" Type="Node" />
+        <Project Name="Table30.csd" Type="Node" />
+        <Project Name="Table9.csd" Type="Node" />
+        <Project Name="Table11.csd" Type="Node" />
+        <Project Name="Table13.csd" Type="Node" />
+        <Project Name="Table15.csd" Type="Node" />
+        <Project Name="Table17.csd" Type="Node" />
+        <Project Name="Table19.csd" Type="Node" />
+        <Project Name="Table21.csd" Type="Node" />
+        <Project Name="Table23.csd" Type="Node" />
+        <Project Name="Table25.csd" Type="Node" />
+        <Project Name="Table27.csd" Type="Node" />
+        <Project Name="Table29.csd" Type="Node" />
+        <Project Name="Table5.csd" Type="Node" />
+        <Project Name="Table7.csd" Type="Node" />
+        <Project Name="Table2X.csd" Type="Node" />
+        <Project Name="Table3X.csd" Type="Node" />
+        <Project Name="Table4X.csd" Type="Node" />
+        <Project Name="Table6X.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

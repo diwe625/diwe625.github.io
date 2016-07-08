@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/timeline
+END
+ActionTimeline.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/timeline/ActionTimeline.js
+END
+Timeline.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/timeline/Timeline.js
+END
+Frame.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/timeline/Frame.js
+END
+CCBoneNode.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/timeline/CCBoneNode.js
+END
+CCSkeletonNode.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/timeline/CCSkeletonNode.js
+END
+CCSkinNode.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/timeline/CCSkinNode.js
+END

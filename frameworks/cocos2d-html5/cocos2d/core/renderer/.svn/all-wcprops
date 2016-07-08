@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/renderer
+END
+RendererWebGL.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/renderer/RendererWebGL.js
+END
+RendererCanvas.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/renderer/RendererCanvas.js
+END

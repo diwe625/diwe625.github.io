@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/gameserver/!svn/ver/66229/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core
+END
+cocos2d_externs.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/cocos2d_externs.js
+END
+CCScheduler.js
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/CCScheduler.js
+END
+CCDrawingPrimitivesCanvas.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/CCDrawingPrimitivesCanvas.js
+END
+CCConfiguration.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/CCConfiguration.js
+END
+CCDirectorCanvas.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/CCDirectorCanvas.js
+END
+CCActionManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/CCActionManager.js
+END
+CCDrawingPrimitivesWebGL.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/CCDrawingPrimitivesWebGL.js
+END
+CCCamera.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/CCCamera.js
+END
+CCDirector.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/CCDirector.js
+END
+CCDirectorWebGL.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/CCDirectorWebGL.js
+END

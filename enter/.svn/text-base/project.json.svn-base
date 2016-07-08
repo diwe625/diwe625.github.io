@@ -1,0 +1,11 @@
+{
+    "project_type": "javascript",
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 1,
+    "engineDir":"libs",
+    "resPath":"../",
+    "modules" : ["cocos2d", "cocostudio", "extensions", "external"]
+}

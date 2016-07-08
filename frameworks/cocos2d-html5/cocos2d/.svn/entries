@@ -1,0 +1,94 @@
+10
+
+dir
+66325
+http://ST14031@wwwsvn.nhncorp.jp/gameserver/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d
+http://ST14031@wwwsvn.nhncorp.jp/gameserver
+
+
+
+2016-06-29T02:16:04.787510Z
+66229
+ST14060
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47f99539-f4ad-4e0a-87bc-911dabb6a7b8
+
+effects
+dir
+
+text-input
+dir
+
+progress-timer
+dir
+
+physics
+dir
+
+menus
+dir
+
+actions3d
+dir
+
+core
+dir
+
+shaders
+dir
+
+tilemap
+dir
+
+motion-streak
+dir
+
+kazmath
+dir
+
+actions
+dir
+
+compression
+dir
+
+audio
+dir
+
+labels
+dir
+
+particle
+dir
+
+parallax
+dir
+
+shape-nodes
+dir
+
+node-grid
+dir
+
+clipping-nodes
+dir
+
+render-texture
+dir
+
+transitions
+dir
+

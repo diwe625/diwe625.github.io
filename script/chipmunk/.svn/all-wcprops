@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/script/chipmunk
+END
+jsb_chipmunk_constants.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/script/chipmunk/jsb_chipmunk_constants.js
+END
+jsb_chipmunk.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/script/chipmunk/jsb_chipmunk.js
+END

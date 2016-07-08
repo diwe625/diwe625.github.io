@@ -1,0 +1,43 @@
+10
+
+dir
+66325
+http://ST14031@wwwsvn.nhncorp.jp/gameserver/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/external
+http://ST14031@wwwsvn.nhncorp.jp/gameserver
+
+
+
+2016-02-17T05:59:53.690501Z
+60958
+ST14060
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47f99539-f4ad-4e0a-87bc-911dabb6a7b8
+
+socketio
+dir
+
+pluginx
+dir
+
+gaf
+dir
+
+box2d
+dir
+
+chipmunk
+dir
+

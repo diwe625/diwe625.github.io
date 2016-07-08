@@ -1,0 +1,206 @@
+﻿/****************************************************************************
+ Copyright (c) 2011-2012 cocos2d-x.org
+ Copyright (c) 2013-2014 Chukong Technologies Inc.
+
+ http://www.cocos2d-x.org
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
+ ****************************************************************************/
+/**
+ * <p>cc.LoaderScene is a scene that you can load it when you loading files</p>
+ * <p>cc.LoaderScene can present thedownload progress </p>
+ * @class
+ * @extends cc.Scene
+ * @example
+ * var lc = new cc.LoaderScene();
+ */
+cc.LoaderScene = cc.Scene.extend({
+    _interval: null,
+    _label: null,
+    _className: "LoaderScene",
+    cb: null,
+    target: null,
+    sprites: null,
+    _curSpriteIndex: 0,
+    /**
+     * Constructor of cc.LoaderScene
+     * @returns {boolean}
+     */
+    init: function () {
+        var self = this;
+
+        //logo
+        var logoWidth = 148;
+        var logoHeight = 164;
+
+        // bg
+        var bgLayer = self._bgLayer = new cc.LayerColor(cc.color("#6fcdc1"));
+        bgLayer.setContentSize(cc.winSize);
+        //bgLayer.addConstraintSize();
+        self.addChild(bgLayer, 0);
+
+        //image move to CCSceneFile.js
+        //var fontSize = 24, lblHeight = -logoHeight / 2 + 100;
+        //if(cc._loaderImage[0]){
+        //    //loading logo
+        //    cc.loader.loadImg(cc._loaderImage[0], {isCrossOrigin : false }, function(err, img){
+        //        logoWidth = img.width;
+        //        logoHeight = img.height;
+        //        self._initStage(img, cc.visibleRect.center);
+        //    });
+        //    fontSize = 34;
+        //    lblHeight = -logoHeight / 2 - 30;
+        //}
+        //add load other image
+
+        var len = cc._loaderImage.length;
+        self.sprites = new Array(len);
+        for (var i = 0; i < cc._loaderImage.length; i++) {
+            (function (_i) {
+                cc.loader.loadImg(cc._loaderImage[_i], {isCrossOrigin: false}, function (err, img) {
+                    logoWidth = img.width;
+                    logoHeight = img.height;
+                    self._initStage(img, _i);
+                });
+            })(i);
+        }
+        var fontSize = 34;
+        var lblHeight = -logoHeight / 2 - 20;
+
+        //loading percent
+        var label = self._label = new cc.LabelTTF("Loading... 0%", "HiraKakuProN-W3", fontSize);
+        label.setPosition(cc.pAdd(cc.visibleRect.center, cc.p(0, lblHeight)));
+        label.setColor(cc.color("#FFFFFF"));
+        bgLayer.addChild(this._label, 10);
+        return true;
+    },
+
+    _initStage: function (img, index) {
+        var self = this;
+        var texture2d = self._texture2d = new cc.Texture2D();
+        texture2d.initWithElement(img);
+        texture2d.handleLoadedTexture();
+        var logo = self._logo = new cc.Sprite(texture2d);
+        logo.setScale(cc.contentScaleFactor());
+        logo.x = cc.visibleRect.center.x;
+        logo.y = cc.visibleRect.center.y + 40;
+        self._bgLayer.addChild(logo, 10);
+        self.sprites[index] = logo;
+    },
+    /**
+     * custom onEnter
+     */
+    onEnter: function () {
+        var self = this;
+        self._bgLayer.setContentSize(cc.winSize);
+        for(var i = 0; i < self.sprites.length; i++){
+            if(self.sprites[i]){
+                self.sprites[i].x = cc.visibleRect.center.x;
+                self.sprites[i].y = cc.visibleRect.center.y + 40;
+                if(i == 0){
+                    var ddd = - 164/2 - 20;
+                    self._label.setPosition(cc.pAdd(cc.visibleRect.center, cc.p(0, ddd)));
+                }
+            }
+        }
+        cc.Node.prototype.onEnter.call(self);
+        self._startLoading();
+        //self.schedule(self._startLoading, 0.3);
+    },
+    /**
+     * custom onExit
+     */
+    onExit: function () {
+        cc.Node.prototype.onExit.call(this);
+        var tmpStr = "Loading... 0%";
+        this._label.setString(tmpStr);
+    },
+
+    /**
+     * init with resources
+     * @param {Array} resources
+     * @param {Function|String} cb
+     * @param {Object} target
+     */
+    initWithResources: function (resources, cb, target) {
+        if (cc.isString(resources))
+            resources = [resources];
+        this.resources = resources || [];
+        this.cb = cb;
+        this.target = target;
+    },
+
+    _startLoading: function () {
+        var self = this;
+        self.schedule(self._updateSprite, 0.1);
+        self._updateSprite();
+        var res = self.resources;
+        cc.loader.load(res,
+            function (result, count, loadedCount) {
+                var percent = (loadedCount / count * 100) | 0;
+                percent = Math.min(percent, 100);
+                self._label.setString("Loading... " + percent + "%");
+            }, function () {
+                if (self.cb)
+                    self.cb.call(self.target);
+            });
+    },
+    _updateSprite: function () {
+        var len = this.sprites.length;
+        for (var i = 0; i < len; i++) {
+            if (this.sprites[i]) {
+                this.sprites[i].setVisible(this._curSpriteIndex % len === i)
+            }
+        }
+        this._curSpriteIndex++;
+    },
+    _updateTransform: function () {
+        this._renderCmd.setDirtyFlag(cc.Node._dirtyFlags.transformDirty);
+        this._bgLayer._renderCmd.setDirtyFlag(cc.Node._dirtyFlags.transformDirty);
+        this._label._renderCmd.setDirtyFlag(cc.Node._dirtyFlags.transformDirty);
+        this._logo._renderCmd.setDirtyFlag(cc.Node._dirtyFlags.transformDirty);
+    }
+});
+/**
+ * <p>cc.LoaderScene.preload can present a loaderScene with download progress.</p>
+ * <p>when all the resource are downloaded it will invoke call function</p>
+ * @param resources
+ * @param cb
+ * @param target
+ * @returns {cc.LoaderScene|*}
+ * @example
+ * //Example
+ * cc.LoaderScene.preload(g_resources, function () {
+        cc.director.runScene(new HelloWorldScene());
+    }, this);
+ */
+cc.LoaderScene.preload = function (resources, cb, target) {
+    var _cc = cc;
+    if (!_cc.loaderScene) {
+        _cc.loaderScene = new cc.LoaderScene();
+        _cc.loaderScene.init();
+        cc.eventManager.addCustomListener(cc.Director.EVENT_PROJECTION_CHANGED, function () {
+            _cc.loaderScene._updateTransform();
+        });
+    }
+    _cc.loaderScene.initWithResources(resources, cb, target);
+
+    cc.director.runScene(_cc.loaderScene);
+    return _cc.loaderScene;
+};

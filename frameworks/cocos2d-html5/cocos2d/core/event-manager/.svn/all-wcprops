@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/event-manager
+END
+CCEventExtension.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventExtension.js
+END
+CCEvent.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEvent.js
+END
+CCTouch.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCTouch.js
+END
+CCEventListener.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventListener.js
+END
+CCEventManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventManager.js
+END

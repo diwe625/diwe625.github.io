@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/render-texture
+END
+CCRenderTexture.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/render-texture/CCRenderTexture.js
+END
+CCRenderTextureCanvasRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/render-texture/CCRenderTextureCanvasRenderCmd.js
+END
+CCRenderTextureWebGLRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/render-texture/CCRenderTextureWebGLRenderCmd.js
+END

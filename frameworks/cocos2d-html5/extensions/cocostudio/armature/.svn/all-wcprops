@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/armature
+END
+CCArmature.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/armature/CCArmature.js
+END
+CCArmatureCanvasRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/armature/CCArmatureCanvasRenderCmd.js
+END
+CCBone.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/armature/CCBone.js
+END
+CCArmatureWebGLRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/cocostudio/armature/CCArmatureWebGLRenderCmd.js
+END

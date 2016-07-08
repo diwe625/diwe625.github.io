@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/script/ccui
+END
+jsb_cocos2d_ui.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/script/ccui/jsb_cocos2d_ui.js
+END
+jsb_ccui_property_impls.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/script/ccui/jsb_ccui_property_impls.js
+END
+jsb_ccui_create_apis.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/script/ccui/jsb_ccui_create_apis.js
+END
+jsb_ccui_deprecated.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/script/ccui/jsb_ccui_deprecated.js
+END
+jsb_ccui_property_apis.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/script/ccui/jsb_ccui_property_apis.js
+END

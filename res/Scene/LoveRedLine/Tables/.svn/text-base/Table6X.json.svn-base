@@ -1,0 +1,556 @@
+{
+  "ID": "41262567-044e-4256-8df0-5c6738ad206e",
+  "Version": "2.3.3.0",
+  "Name": "Table6X",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 48,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0137,
+              "Y": 0.0017
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -125.9863,
+            "RightMargin": -126.0137,
+            "TopMargin": -497.0017,
+            "BottomMargin": -496.9983,
+            "Tag": 49,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/table_top.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 994.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 1.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1258
+                },
+                "BottomMargin": 869.0,
+                "Tag": 50,
+                "ActionTag": -149282671,
+                "Size": {
+                  "X": 252.0,
+                  "Y": 125.0
+                },
+                "Name": "table_top_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/table_bot.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1258
+                },
+                "TopMargin": 869.0,
+                "Tag": 51,
+                "ActionTag": 406428702,
+                "Size": {
+                  "X": 252.0,
+                  "Y": 125.0
+                },
+                "Name": "table_bot_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/table_mid.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 497.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1247
+                },
+                "TopMargin": 497.0,
+                "BottomMargin": 373.0,
+                "Tag": 99,
+                "ActionTag": -163456879,
+                "Size": {
+                  "X": 252.0,
+                  "Y": 124.0
+                },
+                "Name": "table_mid_7",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/table_mid.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 373.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.3753
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1247
+                },
+                "TopMargin": 621.0,
+                "BottomMargin": 249.0,
+                "Tag": 52,
+                "ActionTag": 2060677339,
+                "Size": {
+                  "X": 252.0,
+                  "Y": 124.0
+                },
+                "Name": "table_mid_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/table_mid.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 249.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.2505
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1247
+                },
+                "TopMargin": 745.0,
+                "BottomMargin": 125.0,
+                "Tag": 53,
+                "ActionTag": 1505629163,
+                "Size": {
+                  "X": 252.0,
+                  "Y": 124.0
+                },
+                "Name": "table_mid_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/table_mid.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 621.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.6247
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1247
+                },
+                "TopMargin": 373.0,
+                "BottomMargin": 497.0,
+                "Tag": 111,
+                "ActionTag": 2029650228,
+                "Size": {
+                  "X": 252.0,
+                  "Y": 124.0
+                },
+                "Name": "table_mid_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/table_mid.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 869.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.8742
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1247
+                },
+                "TopMargin": 125.0,
+                "BottomMargin": 745.0,
+                "Tag": 123,
+                "ActionTag": 906241554,
+                "Size": {
+                  "X": 252.0,
+                  "Y": 124.0
+                },
+                "Name": "table_mid_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/table_mid.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 745.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.7495
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.1247
+                },
+                "TopMargin": 249.0,
+                "BottomMargin": 621.0,
+                "Tag": 124,
+                "ActionTag": 1443068476,
+                "Size": {
+                  "X": 252.0,
+                  "Y": 124.0
+                },
+                "Name": "table_mid_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/flower.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 125.7697,
+                  "Y": 189.7972
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4991,
+                  "Y": 0.1909
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.0966
+                },
+                "LeftMargin": 83.7697,
+                "RightMargin": 84.2303,
+                "TopMargin": 756.2028,
+                "BottomMargin": 141.7972,
+                "Tag": 55,
+                "ActionTag": -599604816,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 96.0
+                },
+                "Name": "flower_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/flower.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 127.8385,
+                  "Y": 498.051
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5073,
+                  "Y": 0.5011
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.0966
+                },
+                "LeftMargin": 85.8385,
+                "RightMargin": 82.1615,
+                "TopMargin": 447.949,
+                "BottomMargin": 450.051,
+                "Tag": 100,
+                "ActionTag": -423307789,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 96.0
+                },
+                "Name": "flower_8",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/flower.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 131.9044,
+                  "Y": 795.856
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5234,
+                  "Y": 0.8007
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.0966
+                },
+                "LeftMargin": 89.9044,
+                "RightMargin": 78.0956,
+                "TopMargin": 150.144,
+                "BottomMargin": 747.856,
+                "Tag": 54,
+                "ActionTag": 1432076186,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 96.0
+                },
+                "Name": "flower_5",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -2059399932,
+            "Size": {
+              "X": 252.0,
+              "Y": 994.0
+            },
+            "Name": "table_layout",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Image/flower.png",
+        "Image/table_bot.png",
+        "Image/table_mid.png",
+        "Image/table_top.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

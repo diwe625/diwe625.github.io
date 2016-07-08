@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites
+END
+CCSpriteBatchNode.js
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteBatchNode.js
+END
+CCSpriteBatchNodeCanvasRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteBatchNodeCanvasRenderCmd.js
+END
+CCAnimation.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCAnimation.js
+END
+CCSpriteFrame.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteFrame.js
+END
+CCAnimationCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCAnimationCache.js
+END
+CCSpriteBatchNodeWebGLRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteBatchNodeWebGLRenderCmd.js
+END
+SpritesPropertyDefine.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/SpritesPropertyDefine.js
+END
+CCSpriteFrameCache.js
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteFrameCache.js
+END
+CCSprite.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js
+END
+CCSpriteCanvasRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteCanvasRenderCmd.js
+END
+CCBakeSprite.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCBakeSprite.js
+END
+CCSpriteWebGLRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteWebGLRenderCmd.js
+END

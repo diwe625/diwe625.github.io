@@ -1,0 +1,468 @@
+{
+  "ID": "ce599575-ac4b-4013-a71b-6563c2937ab7",
+  "Version": "2.3.3.0",
+  "Name": "Table6",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 97,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -375.0,
+            "RightMargin": -375.0,
+            "TopMargin": -700.0,
+            "Tag": 98,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/table_top.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 373.872,
+                  "Y": 385.4935
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4985,
+                  "Y": 0.5507
+                },
+                "PreSize": {
+                  "X": 0.336,
+                  "Y": 0.1786
+                },
+                "LeftMargin": 247.872,
+                "RightMargin": 250.128,
+                "TopMargin": 252.0065,
+                "BottomMargin": 322.9935,
+                "Tag": 120,
+                "ActionTag": 378291981,
+                "Size": {
+                  "X": 252.0,
+                  "Y": 125.0
+                },
+                "Name": "table_top_10",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/table_bot.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 374.2844,
+                  "Y": 260.6873
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.499,
+                  "Y": 0.3724
+                },
+                "PreSize": {
+                  "X": 0.336,
+                  "Y": 0.1786
+                },
+                "LeftMargin": 248.2844,
+                "RightMargin": 249.7156,
+                "TopMargin": 376.8127,
+                "BottomMargin": 198.1873,
+                "Tag": 121,
+                "ActionTag": 1088751806,
+                "Size": {
+                  "X": 252.0,
+                  "Y": 125.0
+                },
+                "Name": "table_bot_11",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Image/flower.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 380.3336,
+                  "Y": 326.6495
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5071,
+                  "Y": 0.4666
+                },
+                "PreSize": {
+                  "X": 0.112,
+                  "Y": 0.1371
+                },
+                "LeftMargin": 338.3336,
+                "RightMargin": 327.6664,
+                "TopMargin": 325.3505,
+                "BottomMargin": 278.6495,
+                "Tag": 122,
+                "ActionTag": 79965621,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 96.0
+                },
+                "Name": "flower_12",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "member.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 373.5599,
+                  "Y": 499.6089
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4981,
+                  "Y": 0.7137
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 373.5599,
+                "RightMargin": 376.4401,
+                "TopMargin": 200.3911,
+                "BottomMargin": 499.6089,
+                "Tag": 123,
+                "ActionTag": -1561966854,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "FileNode_1",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "member.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 128.1236,
+                  "Y": 342.1581
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.1708,
+                  "Y": 0.4888
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 128.1236,
+                "RightMargin": 621.8764,
+                "TopMargin": 357.8419,
+                "BottomMargin": 342.1581,
+                "Tag": 127,
+                "ActionTag": -817043900,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "FileNode_6",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "member.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 614.3631,
+                  "Y": 340.6145
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8192,
+                  "Y": 0.4866
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 614.3631,
+                "RightMargin": 135.6369,
+                "TopMargin": 359.3855,
+                "BottomMargin": 340.6145,
+                "Tag": 131,
+                "ActionTag": 2021111980,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "FileNode_2",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "member.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 128.1183,
+                  "Y": 169.2727
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.1708,
+                  "Y": 0.2418
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 128.1183,
+                "RightMargin": 621.8817,
+                "TopMargin": 530.7273,
+                "BottomMargin": 169.2727,
+                "Tag": 135,
+                "ActionTag": 1598818135,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "FileNode_5",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "member.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 614.3632,
+                  "Y": 164.6422
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8192,
+                  "Y": 0.2352
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 614.3632,
+                "RightMargin": 135.6368,
+                "TopMargin": 535.3578,
+                "BottomMargin": 164.6422,
+                "Tag": 139,
+                "ActionTag": -1527677822,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "FileNode_3",
+                "ctype": "ProjectNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "member.json",
+                  "Plist": ""
+                },
+                "StretchWidthEnable": false,
+                "StretchHeightEnable": false,
+                "InnerActionSpeed": 1.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 373.5618,
+                  "Y": 38.0668
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4981,
+                  "Y": 0.0544
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 373.5618,
+                "RightMargin": 376.4382,
+                "TopMargin": 661.9332,
+                "BottomMargin": 38.0668,
+                "Tag": 143,
+                "ActionTag": -518796339,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "FileNode_4",
+                "ctype": "ProjectNodeObjectData"
+              }
+            ],
+            "ActionTag": -1593459229,
+            "Size": {
+              "X": 750.0,
+              "Y": 700.0
+            },
+            "Name": "table_layout",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Image/flower.png",
+        "Image/table_bot.png",
+        "Image/table_top.png",
+        "member.json"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

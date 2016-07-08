@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccui/base-classes
+END
+CCProtectedNode.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccui/base-classes/CCProtectedNode.js
+END
+CCProtectedNodeCanvasRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccui/base-classes/CCProtectedNodeCanvasRenderCmd.js
+END
+UIScale9Sprite.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIScale9Sprite.js
+END
+UIScale9SpriteCanvasRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIScale9SpriteCanvasRenderCmd.js
+END
+UIWidgetRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIWidgetRenderCmd.js
+END
+CCProtectedNodeWebGLRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccui/base-classes/CCProtectedNodeWebGLRenderCmd.js
+END
+UIScale9SpriteWebGLRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIScale9SpriteWebGLRenderCmd.js
+END
+UIWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIWidget.js
+END

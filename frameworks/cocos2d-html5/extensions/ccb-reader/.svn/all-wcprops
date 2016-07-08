@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader
+END
+CCBValue.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCBValue.js
+END
+CCBRelativePositioning.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCBRelativePositioning.js
+END
+CCNodeLoaderLibrary.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCNodeLoaderLibrary.js
+END
+CCBReaderUtil.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCBReaderUtil.js
+END
+CCBReader.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCBReader.js
+END
+CCBKeyframe.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCBKeyframe.js
+END
+CCControlLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCControlLoader.js
+END
+CCBSequence.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCBSequence.js
+END
+CCBAnimationManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCBAnimationManager.js
+END
+CCNodeLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCNodeLoader.js
+END
+CCSpriteLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/extensions/ccb-reader/CCSpriteLoader.js
+END

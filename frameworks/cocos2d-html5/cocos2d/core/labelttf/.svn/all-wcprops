@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/gameserver/!svn/ver/65551/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/labelttf
+END
+CCLabelTTFWebGLRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/labelttf/CCLabelTTFWebGLRenderCmd.js
+END
+LabelTTFPropertyDefine.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/labelttf/LabelTTFPropertyDefine.js
+END
+CCLabelTTF.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/gameserver/!svn/ver/65099/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/labelttf/CCLabelTTF.js
+END
+CCLabelTTFCanvasRenderCmd.js
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/gameserver/!svn/ver/65551/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/core/labelttf/CCLabelTTFCanvasRenderCmd.js
+END

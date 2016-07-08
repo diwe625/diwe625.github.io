@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark
+END
+run.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/run.js
+END
+kmMat4LookAt.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4LookAt.js
+END
+run_browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/run_browser.js
+END
+kernel-template.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kernel-template.js
+END
+kmMat4Inverse.js
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4Inverse.js
+END
+base.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/base.js
+END
+kmVec3TransformCoord.js
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmVec3TransformCoord.js
+END
+kmMat4Transpose.js
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4Transpose.js
+END
+kmMat4AreEqual.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4AreEqual.js
+END
+kmMat4Multiply.js
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4Multiply.js
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/index.html
+END
+kmMat4Assign.js
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4Assign.js
+END
+kmMat4IsIdentity.js
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/cocos2d/kazmath/simd_benchmark/kmMat4IsIdentity.js
+END

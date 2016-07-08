@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/licenses
+END
+LICENSE_cocos2d-x.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/licenses/LICENSE_cocos2d-x.txt
+END
+LICENSE_cocos2d-html5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/licenses/LICENSE_cocos2d-html5.txt
+END
+LICENSE_zlib.js.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/gameserver/!svn/ver/60958/gameserver-minigame/trunk/web/benriya/frameworks/cocos2d-html5/licenses/LICENSE_zlib.js.txt
+END
